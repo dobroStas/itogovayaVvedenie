@@ -62,4 +62,6 @@ void PrintArray(string[] secondArr)
 }
 
 SecondArrLess3(firstArr, secondArr);
-PrintArray(secondArr);
+if (index == 0)
+    Console.Write("[]");
+else PrintArray(secondArr);
