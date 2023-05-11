@@ -1,0 +1,15 @@
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\bin\Debug\net6.0\itogovayaVvedenie.exe
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\bin\Debug\net6.0\itogovayaVvedenie.deps.json
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\bin\Debug\net6.0\itogovayaVvedenie.runtimeconfig.json
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\bin\Debug\net6.0\itogovayaVvedenie.dll
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\bin\Debug\net6.0\itogovayaVvedenie.pdb
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\obj\Debug\net6.0\itogovayaVvedenie.csproj.AssemblyReference.cache
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\obj\Debug\net6.0\itogovayaVvedenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\obj\Debug\net6.0\itogovayaVvedenie.AssemblyInfoInputs.cache
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\obj\Debug\net6.0\itogovayaVvedenie.AssemblyInfo.cs
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\obj\Debug\net6.0\itogovayaVvedenie.csproj.CoreCompileInputs.cache
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\obj\Debug\net6.0\itogovayaVvedenie.dll
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\obj\Debug\net6.0\refint\itogovayaVvedenie.dll
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\obj\Debug\net6.0\itogovayaVvedenie.pdb
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\obj\Debug\net6.0\itogovayaVvedenie.genruntimeconfig.cache
+C:\Users\dobroStas\Desktop\repo\itogovayaVvedenie\obj\Debug\net6.0\ref\itogovayaVvedenie.dll
